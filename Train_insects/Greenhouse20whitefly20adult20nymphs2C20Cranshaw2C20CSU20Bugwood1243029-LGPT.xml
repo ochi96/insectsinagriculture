@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Tobacco Whitefly</folder>
+	<filename>Greenhouse20whitefly20adult20nymphs2C20Cranshaw2C20CSU20Bugwood1243029-LGPT.jpg</filename>
+	<path>E:\Projects\Freelancing\Insects in agriculture\Data\Tobacco Whitefly-20210306T201259Z-001\Tobacco Whitefly\Greenhouse20whitefly20adult20nymphs2C20Cranshaw2C20CSU20Bugwood1243029-LGPT.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Tobacco Whitefly</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>291</xmin>
+			<ymin>169</ymin>
+			<xmax>436</xmax>
+			<ymax>388</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Tobacco Whitefly</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>717</xmin>
+			<ymin>459</ymin>
+			<xmax>820</xmax>
+			<ymax>675</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Tobacco Whitefly</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>847</xmin>
+			<ymin>327</ymin>
+			<xmax>1049</xmax>
+			<ymax>522</ymax>
+		</bndbox>
+	</object>
+</annotation>

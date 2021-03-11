@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Thrips</folder>
+	<filename>5207026-PPT.jpg</filename>
+	<path>E:\Projects\Freelancing\Insects in agriculture\Data\Thrips-20210305T214625Z-001\Thrips\5207026-PPT.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>633</width>
+		<height>503</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Thrips</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>179</xmin>
+			<ymin>74</ymin>
+			<xmax>467</xmax>
+			<ymax>381</ymax>
+		</bndbox>
+	</object>
+</annotation>

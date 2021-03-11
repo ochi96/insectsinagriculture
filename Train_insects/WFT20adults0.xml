@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Thrips</folder>
+	<filename>WFT20adults0.png</filename>
+	<path>E:\Projects\Freelancing\Insects in agriculture\Data\Thrips-20210305T214625Z-001\Thrips\WFT20adults0.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>840</width>
+		<height>704</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Thrips</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>61</xmin>
+			<ymin>108</ymin>
+			<xmax>554</xmax>
+			<ymax>326</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Thrips</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>419</xmin>
+			<ymin>271</ymin>
+			<xmax>747</xmax>
+			<ymax>573</ymax>
+		</bndbox>
+	</object>
+</annotation>

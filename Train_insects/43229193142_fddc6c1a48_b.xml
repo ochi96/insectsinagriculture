@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Fungus Gnats - Fruitfly</folder>
+	<filename>43229193142_fddc6c1a48_b.jpg</filename>
+	<path>E:\Projects\Freelancing\Insects in agriculture\Data\Fungus Gnats - Fruitfly-20210307T140406Z-001\Fungus Gnats - Fruitfly\43229193142_fddc6c1a48_b.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>692</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Fruit fly</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>345</xmin>
+			<ymin>175</ymin>
+			<xmax>900</xmax>
+			<ymax>582</ymax>
+		</bndbox>
+	</object>
+</annotation>

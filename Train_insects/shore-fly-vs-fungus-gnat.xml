@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Fungus Gnats - Fruitfly</folder>
+	<filename>shore-fly-vs-fungus-gnat.jpg</filename>
+	<path>E:\Projects\Freelancing\Insects in agriculture\Data\Fungus Gnats - Fruitfly-20210307T140406Z-001\Fungus Gnats - Fruitfly\shore-fly-vs-fungus-gnat.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>768</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Fruit fly</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>221</xmin>
+			<ymin>133</ymin>
+			<xmax>768</xmax>
+			<ymax>540</ymax>
+		</bndbox>
+	</object>
+</annotation>

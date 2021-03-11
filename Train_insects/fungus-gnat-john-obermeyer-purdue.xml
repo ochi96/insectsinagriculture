@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Fungus Gnats - Fruitfly</folder>
+	<filename>fungus-gnat-john-obermeyer-purdue.jpg</filename>
+	<path>E:\Projects\Freelancing\Insects in agriculture\Data\Fungus Gnats - Fruitfly-20210307T140406Z-001\Fungus Gnats - Fruitfly\fungus-gnat-john-obermeyer-purdue.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1350</width>
+		<height>1034</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Fruit fly</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>612</xmin>
+			<ymin>472</ymin>
+			<xmax>914</xmax>
+			<ymax>626</ymax>
+		</bndbox>
+	</object>
+</annotation>

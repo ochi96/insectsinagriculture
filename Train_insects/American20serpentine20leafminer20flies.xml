@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Liriomyza trifoli (American serpentine leafminer or celery leafminer)</folder>
+	<filename>American20serpentine20leafminer20flies.jpg</filename>
+	<path>E:\Projects\Freelancing\Insects in agriculture\Data\Liriomyza trifoli (American serpentine leafminer or celery leafminer)-20210307T001414Z-001\Liriomyza trifoli (American serpentine leafminer or celery leafminer)\American20serpentine20leafminer20flies.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>501</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Trifoli</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>136</xmin>
+			<ymin>196</ymin>
+			<xmax>255</xmax>
+			<ymax>362</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Trifoli</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>262</xmin>
+			<ymin>47</ymin>
+			<xmax>431</xmax>
+			<ymax>134</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Trifoli</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>318</xmin>
+			<ymin>260</ymin>
+			<xmax>406</xmax>
+			<ymax>389</ymax>
+		</bndbox>
+	</object>
+</annotation>

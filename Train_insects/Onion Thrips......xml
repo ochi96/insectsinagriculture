@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Thrips</folder>
+	<filename>Onion Thrips......jpg</filename>
+	<path>E:\Projects\Freelancing\Insects in agriculture\Data\Thrips-20210305T214625Z-001\Thrips\Onion Thrips......jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>768</width>
+		<height>579</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Thrips</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>202</xmin>
+			<ymin>121</ymin>
+			<xmax>558</xmax>
+			<ymax>448</ymax>
+		</bndbox>
+	</object>
+</annotation>

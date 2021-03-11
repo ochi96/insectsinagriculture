@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Mite(Spidermites, rustmite)</folder>
+	<filename>animal-arachnid-blur-760223_large.jpg</filename>
+	<path>E:\Projects\Freelancing\Insects in agriculture\Data\Mite(Spidermites, rustmite)-20210305T215032Z-001\Mite(Spidermites, rustmite)\animal-arachnid-blur-760223_large.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>324</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mites</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>267</xmin>
+			<ymin>61</ymin>
+			<xmax>431</xmax>
+			<ymax>190</ymax>
+		</bndbox>
+	</object>
+</annotation>

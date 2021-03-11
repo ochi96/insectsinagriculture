@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Spodoptera (worm,armyworm)</folder>
+	<filename>CabbageHeadCaterpoillar20MatureLarvae20PPoint20Pudijanto.jpg</filename>
+	<path>E:\Projects\Freelancing\Insects in agriculture\Data\Spodoptera (worm,armyworm)-20210308T142528Z-001\Spodoptera (worm,armyworm)\CabbageHeadCaterpoillar20MatureLarvae20PPoint20Pudijanto.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>348</width>
+		<height>388</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Armyworm</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>10</xmin>
+			<ymin>171</ymin>
+			<xmax>292</xmax>
+			<ymax>249</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Armyworm</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>36</xmin>
+			<ymin>248</ymin>
+			<xmax>337</xmax>
+			<ymax>305</ymax>
+		</bndbox>
+	</object>
+</annotation>

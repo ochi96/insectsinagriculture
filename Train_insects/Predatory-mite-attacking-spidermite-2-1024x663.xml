@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Mite(Spidermites, rustmite)</folder>
+	<filename>Predatory-mite-attacking-spidermite-2-1024x663.png</filename>
+	<path>E:\Projects\Freelancing\Insects in agriculture\Data\Mite(Spidermites, rustmite)-20210305T215032Z-001\Mite(Spidermites, rustmite)\Predatory-mite-attacking-spidermite-2-1024x663.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>663</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mites</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>472</xmin>
+			<ymin>241</ymin>
+			<xmax>768</xmax>
+			<ymax>497</ymax>
+		</bndbox>
+	</object>
+</annotation>

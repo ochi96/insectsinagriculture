@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Spodoptera (worm,armyworm)</folder>
+	<filename>Beet-Armyworm-Close-Up.jpg</filename>
+	<path>E:\Projects\Freelancing\Insects in agriculture\Data\Spodoptera (worm,armyworm)-20210308T142528Z-001\Spodoptera (worm,armyworm)\Beet-Armyworm-Close-Up.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>533</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Armyworm</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>106</xmin>
+			<ymin>175</ymin>
+			<xmax>692</xmax>
+			<ymax>373</ymax>
+		</bndbox>
+	</object>
+</annotation>

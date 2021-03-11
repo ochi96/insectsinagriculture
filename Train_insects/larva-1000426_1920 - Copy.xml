@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Spodoptera (worm,armyworm)</folder>
+	<filename>larva-1000426_1920 - Copy.jpg</filename>
+	<path>E:\Projects\Freelancing\Insects in agriculture\Data\Spodoptera (worm,armyworm)-20210308T142528Z-001\Spodoptera (worm,armyworm)\larva-1000426_1920 - Copy.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1440</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Armyworm</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>598</xmin>
+			<ymin>240</ymin>
+			<xmax>1324</xmax>
+			<ymax>1163</ymax>
+		</bndbox>
+	</object>
+</annotation>

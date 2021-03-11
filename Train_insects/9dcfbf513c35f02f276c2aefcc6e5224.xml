@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Mite(Spidermites, rustmite)</folder>
+	<filename>9dcfbf513c35f02f276c2aefcc6e5224.jpg</filename>
+	<path>E:\Projects\Freelancing\Insects in agriculture\Data\Mite(Spidermites, rustmite)-20210305T215032Z-001\Mite(Spidermites, rustmite)\9dcfbf513c35f02f276c2aefcc6e5224.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>317</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mites</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>61</xmin>
+			<ymin>34</ymin>
+			<xmax>250</xmax>
+			<ymax>139</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Mites</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>91</xmin>
+			<ymin>125</ymin>
+			<xmax>329</xmax>
+			<ymax>265</ymax>
+		</bndbox>
+	</object>
+</annotation>

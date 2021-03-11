@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Tobacco Whitefly</folder>
+	<filename>CQM0FQI0L0M0TQZQ1RJKFQ3KWR80FQ3KWRRQVRX0OQP0Z0KQOR60TR90TRQQCRE0H0P0K020ORW000.jpg</filename>
+	<path>E:\Projects\Freelancing\Insects in agriculture\Data\Tobacco Whitefly-20210306T201259Z-001\Tobacco Whitefly\CQM0FQI0L0M0TQZQ1RJKFQ3KWR80FQ3KWRRQVRX0OQP0Z0KQOR60TR90TRQQCRE0H0P0K020ORW000.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>540</width>
+		<height>560</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Tobacco Whitefly</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>63</xmin>
+			<ymin>92</ymin>
+			<xmax>466</xmax>
+			<ymax>454</ymax>
+		</bndbox>
+	</object>
+</annotation>

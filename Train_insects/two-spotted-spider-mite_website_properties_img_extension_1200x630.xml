@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Mite(Spidermites, rustmite)</folder>
+	<filename>two-spotted-spider-mite_website_properties_img_extension_1200x630.png</filename>
+	<path>E:\Projects\Freelancing\Insects in agriculture\Data\Mite(Spidermites, rustmite)-20210305T215032Z-001\Mite(Spidermites, rustmite)\two-spotted-spider-mite_website_properties_img_extension_1200x630.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>630</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mites</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>99</xmin>
+			<ymin>230</ymin>
+			<xmax>467</xmax>
+			<ymax>504</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Mites</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>636</xmin>
+			<ymin>328</ymin>
+			<xmax>996</xmax>
+			<ymax>518</ymax>
+		</bndbox>
+	</object>
+</annotation>

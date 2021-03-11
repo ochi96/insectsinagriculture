@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Liriomyza trifoli (American serpentine leafminer or celery leafminer)</folder>
+	<filename>7cd28b8866655cdf3e8c7c7ba66c3df9.jpg</filename>
+	<path>E:\Projects\Freelancing\Insects in agriculture\Data\Liriomyza trifoli (American serpentine leafminer or celery leafminer)-20210307T001414Z-001\Liriomyza trifoli (American serpentine leafminer or celery leafminer)\7cd28b8866655cdf3e8c7c7ba66c3df9.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>735</width>
+		<height>1102</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Trifoli</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>27</xmin>
+			<ymin>72</ymin>
+			<xmax>709</xmax>
+			<ymax>977</ymax>
+		</bndbox>
+	</object>
+</annotation>

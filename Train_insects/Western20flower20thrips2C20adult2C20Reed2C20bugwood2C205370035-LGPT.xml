@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Thrips</folder>
+	<filename>Western20flower20thrips2C20adult2C20Reed2C20bugwood2C205370035-LGPT.jpg</filename>
+	<path>E:\Projects\Freelancing\Insects in agriculture\Data\Thrips-20210305T214625Z-001\Thrips\Western20flower20thrips2C20adult2C20Reed2C20bugwood2C205370035-LGPT.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1500</width>
+		<height>960</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Thrips</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>158</xmin>
+			<ymin>28</ymin>
+			<xmax>1353</xmax>
+			<ymax>960</ymax>
+		</bndbox>
+	</object>
+</annotation>

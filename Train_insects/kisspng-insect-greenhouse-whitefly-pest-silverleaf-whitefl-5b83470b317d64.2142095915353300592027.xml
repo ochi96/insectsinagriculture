@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Tobacco Whitefly</folder>
+	<filename>kisspng-insect-greenhouse-whitefly-pest-silverleaf-whitefl-5b83470b317d64.2142095915353300592027.jpg</filename>
+	<path>E:\Projects\Freelancing\Insects in agriculture\Data\Tobacco Whitefly-20210306T201259Z-001\Tobacco Whitefly\kisspng-insect-greenhouse-whitefly-pest-silverleaf-whitefl-5b83470b317d64.2142095915353300592027.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>900</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Tobacco Whitefly</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>300</xmin>
+			<ymin>82</ymin>
+			<xmax>434</xmax>
+			<ymax>372</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Tobacco Whitefly</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>410</xmin>
+			<ymin>120</ymin>
+			<xmax>584</xmax>
+			<ymax>427</ymax>
+		</bndbox>
+	</object>
+</annotation>

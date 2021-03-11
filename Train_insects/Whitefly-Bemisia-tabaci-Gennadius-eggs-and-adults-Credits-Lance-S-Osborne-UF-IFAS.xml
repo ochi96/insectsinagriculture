@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Tobacco Whitefly</folder>
+	<filename>Whitefly-Bemisia-tabaci-Gennadius-eggs-and-adults-Credits-Lance-S-Osborne-UF-IFAS.png</filename>
+	<path>E:\Projects\Freelancing\Insects in agriculture\Data\Tobacco Whitefly-20210306T201259Z-001\Tobacco Whitefly\Whitefly-Bemisia-tabaci-Gennadius-eggs-and-adults-Credits-Lance-S-Osborne-UF-IFAS.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>788</width>
+		<height>974</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Tobacco Whitefly</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>374</xmin>
+			<ymin>473</ymin>
+			<xmax>585</xmax>
+			<ymax>823</ymax>
+		</bndbox>
+	</object>
+</annotation>

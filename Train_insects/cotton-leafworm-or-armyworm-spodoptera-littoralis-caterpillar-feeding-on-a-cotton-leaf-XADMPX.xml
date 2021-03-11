@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Spodoptera (worm,armyworm)</folder>
+	<filename>cotton-leafworm-or-armyworm-spodoptera-littoralis-caterpillar-feeding-on-a-cotton-leaf-XADMPX.jpg</filename>
+	<path>E:\Projects\Freelancing\Insects in agriculture\Data\Spodoptera (worm,armyworm)-20210308T142528Z-001\Spodoptera (worm,armyworm)\cotton-leafworm-or-armyworm-spodoptera-littoralis-caterpillar-feeding-on-a-cotton-leaf-XADMPX.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1209</width>
+		<height>1390</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Armyworm</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>350</xmin>
+			<ymin>207</ymin>
+			<xmax>769</xmax>
+			<ymax>1154</ymax>
+		</bndbox>
+	</object>
+</annotation>

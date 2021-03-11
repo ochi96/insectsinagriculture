@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Tobacco Whitefly</folder>
+	<filename>gh20whitefly20adult20thumb.jpg</filename>
+	<path>E:\Projects\Freelancing\Insects in agriculture\Data\Tobacco Whitefly-20210306T201259Z-001\Tobacco Whitefly\gh20whitefly20adult20thumb.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>335</width>
+		<height>263</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Tobacco Whitefly</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>112</xmin>
+			<ymin>85</ymin>
+			<xmax>239</xmax>
+			<ymax>203</ymax>
+		</bndbox>
+	</object>
+</annotation>

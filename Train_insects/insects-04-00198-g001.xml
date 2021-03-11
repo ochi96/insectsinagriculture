@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Tobacco Whitefly</folder>
+	<filename>insects-04-00198-g001.png</filename>
+	<path>E:\Projects\Freelancing\Insects in agriculture\Data\Tobacco Whitefly-20210306T201259Z-001\Tobacco Whitefly\insects-04-00198-g001.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1419</width>
+		<height>1510</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Tobacco Whitefly</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>254</xmin>
+			<ymin>322</ymin>
+			<xmax>1326</xmax>
+			<ymax>1441</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Mite(Spidermites, rustmite)</folder>
+	<filename>Predatory-mites_large.jpg</filename>
+	<path>E:\Projects\Freelancing\Insects in agriculture\Data\Mite(Spidermites, rustmite)-20210305T215032Z-001\Mite(Spidermites, rustmite)\Predatory-mites_large.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mites</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>139</xmin>
+			<ymin>89</ymin>
+			<xmax>438</xmax>
+			<ymax>277</ymax>
+		</bndbox>
+	</object>
+</annotation>

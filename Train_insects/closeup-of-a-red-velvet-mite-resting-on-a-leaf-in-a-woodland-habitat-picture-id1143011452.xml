@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Mite(Spidermites, rustmite)</folder>
+	<filename>closeup-of-a-red-velvet-mite-resting-on-a-leaf-in-a-woodland-habitat-picture-id1143011452.jpg</filename>
+	<path>E:\Projects\Freelancing\Insects in agriculture\Data\Mite(Spidermites, rustmite)-20210305T215032Z-001\Mite(Spidermites, rustmite)\closeup-of-a-red-velvet-mite-resting-on-a-leaf-in-a-woodland-habitat-picture-id1143011452.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>612</width>
+		<height>411</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mites</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>276</xmin>
+			<ymin>90</ymin>
+			<xmax>493</xmax>
+			<ymax>293</ymax>
+		</bndbox>
+	</object>
+</annotation>

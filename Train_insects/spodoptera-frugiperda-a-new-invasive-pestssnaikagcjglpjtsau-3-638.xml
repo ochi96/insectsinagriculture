@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Spodoptera (worm,armyworm)</folder>
+	<filename>spodoptera-frugiperda-a-new-invasive-pestssnaikagcjglpjtsau-3-638.jpg</filename>
+	<path>E:\Projects\Freelancing\Insects in agriculture\Data\Spodoptera (worm,armyworm)-20210308T142528Z-001\Spodoptera (worm,armyworm)\spodoptera-frugiperda-a-new-invasive-pestssnaikagcjglpjtsau-3-638.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>638</width>
+		<height>479</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Armyworm</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>89</xmin>
+			<ymin>106</ymin>
+			<xmax>193</xmax>
+			<ymax>396</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Armyworm</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>466</xmin>
+			<ymin>86</ymin>
+			<xmax>551</xmax>
+			<ymax>377</ymax>
+		</bndbox>
+	</object>
+</annotation>

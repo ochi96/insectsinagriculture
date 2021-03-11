@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Spodoptera (worm,armyworm)</folder>
+	<filename>fall-armyworm-caterpillar-sits-on-a-maize-plant-on-a-farm-in-the-picture-id688101170.jpg</filename>
+	<path>E:\Projects\Freelancing\Insects in agriculture\Data\Spodoptera (worm,armyworm)-20210308T142528Z-001\Spodoptera (worm,armyworm)\fall-armyworm-caterpillar-sits-on-a-maize-plant-on-a-farm-in-the-picture-id688101170.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>407</width>
+		<height>612</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Armyworm</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>107</xmin>
+			<ymin>258</ymin>
+			<xmax>302</xmax>
+			<ymax>397</ymax>
+		</bndbox>
+	</object>
+</annotation>

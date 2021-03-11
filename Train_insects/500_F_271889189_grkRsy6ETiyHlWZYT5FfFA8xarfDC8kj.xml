@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Thrips</folder>
+	<filename>500_F_271889189_grkRsy6ETiyHlWZYT5FfFA8xarfDC8kj.jpg</filename>
+	<path>E:\Projects\Freelancing\Insects in agriculture\Data\Thrips-20210305T214625Z-001\Thrips\500_F_271889189_grkRsy6ETiyHlWZYT5FfFA8xarfDC8kj.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>334</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Thrips</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>144</xmin>
+			<ymin>120</ymin>
+			<xmax>316</xmax>
+			<ymax>206</ymax>
+		</bndbox>
+	</object>
+</annotation>

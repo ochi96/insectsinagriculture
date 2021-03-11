@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Spodoptera (worm,armyworm)</folder>
+	<filename>GKCKIKOKLKLS4QC04QF0NQ106Q6K5QC0PQ10PQD0KK9K0KB06Q10GQB05Q6KXKCKBQHS8KJ08KJ0UQ1K1QBKXKCK0K.jpg</filename>
+	<path>E:\Projects\Freelancing\Insects in agriculture\Data\Spodoptera (worm,armyworm)-20210308T142528Z-001\Spodoptera (worm,armyworm)\GKCKIKOKLKLS4QC04QF0NQ106Q6K5QC0PQ10PQD0KK9K0KB06Q10GQB05Q6KXKCKBQHS8KJ08KJ0UQ1K1QBKXKCK0K.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>283</width>
+		<height>560</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Armyworm</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>55</xmin>
+			<ymin>19</ymin>
+			<xmax>227</xmax>
+			<ymax>533</ymax>
+		</bndbox>
+	</object>
+</annotation>

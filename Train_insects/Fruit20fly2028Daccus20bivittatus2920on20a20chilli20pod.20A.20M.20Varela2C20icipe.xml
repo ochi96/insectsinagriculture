@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Fungus Gnats - Fruitfly</folder>
+	<filename>Fruit20fly2028Daccus20bivittatus2920on20a20chilli20pod.20A.20M.20Varela2C20icipe.jpg</filename>
+	<path>E:\Projects\Freelancing\Insects in agriculture\Data\Fungus Gnats - Fruitfly-20210307T140406Z-001\Fungus Gnats - Fruitfly\Fruit20fly2028Daccus20bivittatus2920on20a20chilli20pod.20A.20M.20Varela2C20icipe.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>927</width>
+		<height>1225</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Fruit fly</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>199</xmin>
+			<ymin>584</ymin>
+			<xmax>708</xmax>
+			<ymax>956</ymax>
+		</bndbox>
+	</object>
+</annotation>

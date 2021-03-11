@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Mite(Spidermites, rustmite)</folder>
+	<filename>Figure-1.-Close-up-of-twospotted-spider-mite-adult-Author-Raymond-Cloyd-KSU-1k2wlf9.jpg</filename>
+	<path>E:\Projects\Freelancing\Insects in agriculture\Data\Mite(Spidermites, rustmite)-20210305T215032Z-001\Mite(Spidermites, rustmite)\Figure-1.-Close-up-of-twospotted-spider-mite-adult-Author-Raymond-Cloyd-KSU-1k2wlf9.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>814</width>
+		<height>546</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mites</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>253</xmin>
+			<ymin>192</ymin>
+			<xmax>523</xmax>
+			<ymax>375</ymax>
+		</bndbox>
+	</object>
+</annotation>

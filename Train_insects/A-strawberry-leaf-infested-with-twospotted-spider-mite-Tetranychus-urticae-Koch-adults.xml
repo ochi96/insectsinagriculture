@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Mite(Spidermites, rustmite)</folder>
+	<filename>A-strawberry-leaf-infested-with-twospotted-spider-mite-Tetranychus-urticae-Koch-adults.png</filename>
+	<path>E:\Projects\Freelancing\Insects in agriculture\Data\Mite(Spidermites, rustmite)-20210305T215032Z-001\Mite(Spidermites, rustmite)\A-strawberry-leaf-infested-with-twospotted-spider-mite-Tetranychus-urticae-Koch-adults.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>525</width>
+		<height>471</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mites</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>243</xmin>
+			<ymin>324</ymin>
+			<xmax>361</xmax>
+			<ymax>422</ymax>
+		</bndbox>
+	</object>
+</annotation>

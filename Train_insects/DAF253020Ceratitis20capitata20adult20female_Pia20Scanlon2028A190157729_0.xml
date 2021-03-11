@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Fungus Gnats - Fruitfly</folder>
+	<filename>DAF253020Ceratitis20capitata20adult20female_Pia20Scanlon2028A190157729_0.jpg</filename>
+	<path>E:\Projects\Freelancing\Insects in agriculture\Data\Fungus Gnats - Fruitfly-20210307T140406Z-001\Fungus Gnats - Fruitfly\DAF253020Ceratitis20capitata20adult20female_Pia20Scanlon2028A190157729_0.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1049</width>
+		<height>1468</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Fruit fly</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>187</xmin>
+			<ymin>358</ymin>
+			<xmax>1015</xmax>
+			<ymax>1082</ymax>
+		</bndbox>
+	</object>
+</annotation>
