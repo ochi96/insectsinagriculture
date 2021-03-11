@@ -1,7 +1,7 @@
 <annotation>
-	<folder>Thrips</folder>
-	<filename>images.jpg</filename>
-	<path>E:\Projects\Freelancing\Insects in agriculture\Data\Thrips-20210305T214625Z-001\Thrips\images.jpg</path>
+	<folder>Train_insects</folder>
+	<filename>images (20).jpg</filename>
+	<path>E:\Projects\Freelancing\Insects in agriculture\Data\insectsinagriculture\Train_insects\images (20).jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>34</xmin>
-			<ymin>42</ymin>
-			<xmax>251</xmax>
-			<ymax>164</ymax>
+			<xmin>48</xmin>
+			<ymin>46</ymin>
+			<xmax>254</xmax>
+			<ymax>162</ymax>
 		</bndbox>
 	</object>
 </annotation>

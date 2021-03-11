@@ -1,7 +1,7 @@
 <annotation>
-	<folder>Mite(Spidermites, rustmite)</folder>
-	<filename>images (8).jpg</filename>
-	<path>E:\Projects\Freelancing\Insects in agriculture\Data\Mite(Spidermites, rustmite)-20210305T215032Z-001\Mite(Spidermites, rustmite)\images (8).jpg</path>
+	<folder>Train_insects</folder>
+	<filename>images (19).jpg</filename>
+	<path>E:\Projects\Freelancing\Insects in agriculture\Data\insectsinagriculture\Train_insects\images (19).jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>38</xmin>
-			<ymin>98</ymin>
-			<xmax>89</xmax>
-			<ymax>157</ymax>
+			<xmin>48</xmin>
+			<ymin>7</ymin>
+			<xmax>114</xmax>
+			<ymax>65</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,10 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>55</xmin>
-			<ymin>14</ymin>
-			<xmax>126</xmax>
-			<ymax>80</ymax>
+			<xmin>40</xmin>
+			<ymin>100</ymin>
+			<xmax>93</xmax>
+			<ymax>165</ymax>
 		</bndbox>
 	</object>
 </annotation>

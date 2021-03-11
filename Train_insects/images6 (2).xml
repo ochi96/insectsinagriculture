@@ -1,7 +1,7 @@
 <annotation>
-	<folder>Tobacco Whitefly</folder>
-	<filename>images6.jpg</filename>
-	<path>E:\Projects\Freelancing\Insects in agriculture\Data\Tobacco Whitefly-20210306T201259Z-001\Tobacco Whitefly\images6.jpg</path>
+	<folder>Train_insects</folder>
+	<filename>images6 (2).jpg</filename>
+	<path>E:\Projects\Freelancing\Insects in agriculture\Data\insectsinagriculture\Train_insects\images6 (2).jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>14</xmin>
-			<ymin>49</ymin>
-			<xmax>195</xmax>
-			<ymax>190</ymax>
+			<xmin>10</xmin>
+			<ymin>58</ymin>
+			<xmax>190</xmax>
+			<ymax>207</ymax>
 		</bndbox>
 	</object>
 </annotation>

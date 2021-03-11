@@ -1,7 +1,7 @@
 <annotation>
-	<folder>Liriomyza trifoli (American serpentine leafminer or celery leafminer)</folder>
-	<filename>images3.jpg</filename>
-	<path>E:\Projects\Freelancing\Insects in agriculture\Data\Liriomyza trifoli (American serpentine leafminer or celery leafminer)-20210307T001414Z-001\Liriomyza trifoli (American serpentine leafminer or celery leafminer)\images3.jpg</path>
+	<folder>Train_insects</folder>
+	<filename>images3 (4).jpg</filename>
+	<path>E:\Projects\Freelancing\Insects in agriculture\Data\insectsinagriculture\Train_insects\images3 (4).jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>31</xmin>
-			<ymin>24</ymin>
-			<xmax>217</xmax>
-			<ymax>153</ymax>
+			<xmin>21</xmin>
+			<ymin>23</ymin>
+			<xmax>198</xmax>
+			<ymax>154</ymax>
 		</bndbox>
 	</object>
 </annotation>
