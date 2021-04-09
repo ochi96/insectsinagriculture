@@ -1,0 +1,26 @@
+<annotation>
+	<folder>aphids</folder>
+	<filename>5514150.jpg</filename>
+	<path>E:\Projects\Freelancing\Insects in agriculture\aphids\5514150.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>409</width>
+		<height>768</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Aphids</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>40</xmin>
+			<ymin>28</ymin>
+			<xmax>317</xmax>
+			<ymax>743</ymax>
+		</bndbox>
+	</object>
+</annotation>
